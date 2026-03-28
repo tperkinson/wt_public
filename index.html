@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Wake Tech to College</title>
+    <meta
+      name="description"
+      content="Student-focused dashboard for exploring Wake Tech to N.C. university options."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=Space+Grotesk:wght@500;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="ambient ambient-left"></div>
+    <div class="ambient ambient-right"></div>
+    <main class="shell">
+      <section class="hero">
+        <p class="eyebrow">Wake Tech to College</p>
+        <h1 id="hero-title">Exploring the next best move.</h1>
+        <p class="hero-copy" id="hero-subtitle"></p>
+        <div class="hero-notice" id="hero-notice"></div>
+        <div class="stat-grid" id="stat-grid"></div>
+      </section>
+
+      <section class="panel">
+        <div class="section-heading">
+          <p class="kicker">Big Paths</p>
+          <h2>Ways to keep momentum</h2>
+        </div>
+        <div class="path-grid" id="path-grid"></div>
+      </section>
+
+      <section class="panel split">
+        <div>
+          <div class="section-heading">
+            <p class="kicker">School Lens</p>
+            <h2>Destination snapshots</h2>
+          </div>
+          <div class="destination-list" id="destination-list"></div>
+        </div>
+        <div>
+          <div class="section-heading">
+            <p class="kicker">Move Order</p>
+            <h2>Roadmap</h2>
+          </div>
+          <div class="roadmap" id="roadmap"></div>
+        </div>
+      </section>
+
+      <section class="panel split">
+        <div>
+          <div class="section-heading">
+            <p class="kicker">What To Build</p>
+            <h2>Checklist stack</h2>
+          </div>
+          <div class="checklist-grid" id="checklist-grid"></div>
+        </div>
+        <div>
+          <div class="section-heading">
+            <p class="kicker">Still Murky</p>
+            <h2>Questions to answer</h2>
+          </div>
+          <ul class="question-list" id="question-list"></ul>
+        </div>
+      </section>
+
+      <section class="panel">
+        <div class="section-heading">
+          <p class="kicker">Vocabulary</p>
+          <h2>Helpful terms</h2>
+        </div>
+        <div class="glossary-grid" id="glossary-grid"></div>
+      </section>
+    </main>
+
+    <template id="list-template">
+      <ul class="mini-list"></ul>
+    </template>
+
+    <script src="./app.js" type="module"></script>
+  </body>
+</html>
+

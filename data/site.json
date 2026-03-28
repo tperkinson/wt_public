@@ -1,0 +1,163 @@
+{
+  "meta": {
+    "title": "Map the path before the deadline maps you.",
+    "subtitle": "Use this board to compare routes, protect backup plans, and keep Wake Tech in play as a launch point toward larger goals in North Carolina.",
+    "notice": "All admissions and transfer rules should be verified against current official sources before making a decision."
+  },
+  "stats": [
+    {
+      "value": "2",
+      "label": "primary destination schools in focus"
+    },
+    {
+      "value": "3",
+      "label": "parallel routes worth keeping alive"
+    },
+    {
+      "value": "4",
+      "label": "workstreams to manage at once"
+    },
+    {
+      "value": "Now",
+      "label": "best time to start organizing source-backed facts"
+    }
+  ],
+  "paths": [
+    {
+      "tag": "Current Cycle",
+      "title": "Stay active on waitlists",
+      "description": "If a student is still alive at a target school, keep the file moving while backup paths are built in parallel.",
+      "actions": [
+        "Track deadlines for updates, final grades, and interest signals.",
+        "Collect any new academic evidence that strengthens the file.",
+        "Treat the waitlist as real, but never as the only plan."
+      ]
+    },
+    {
+      "tag": "Transfer Route",
+      "title": "Use Wake Tech as a proving ground",
+      "description": "A focused first year or first two years at Wake Tech can build a stronger transfer case and create leverage through completed college work.",
+      "actions": [
+        "Choose classes that transfer cleanly and support the intended major.",
+        "Protect GPA and course rigor from the first term forward.",
+        "Track school-specific transfer requirements instead of assuming a generic path."
+      ]
+    },
+    {
+      "tag": "Risk Control",
+      "title": "Build options wider than two schools",
+      "description": "A plan is stronger when it includes target schools, strong backups, and a route that still works if one decision goes sideways.",
+      "actions": [
+        "Keep a short list of additional North Carolina universities that fit the student's goals.",
+        "Separate emotional favorites from practical fallback choices.",
+        "Use deadlines, cost, fit, and transfer friendliness as filters."
+      ]
+    }
+  ],
+  "destinations": [
+    {
+      "name": "NC State",
+      "focus": "Strong for majors where sequencing and major readiness matter early.",
+      "summary": "The planning lens here is not just admission, but whether the intended major has special prerequisites, GPA pressure, or limited room for mistakes.",
+      "whatToTrack": [
+        "transfer application windows and required materials",
+        "major-specific prerequisite courses",
+        "minimum and competitive GPA signals",
+        "credit articulation for Wake Tech classes"
+      ]
+    },
+    {
+      "name": "UNC-Chapel Hill",
+      "focus": "Holistic review still matters, but transfer planning must stay evidence-driven.",
+      "summary": "For UNC, the strongest route is usually the one that combines clean academics, deliberate course choices, and a clear personal narrative backed by performance.",
+      "whatToTrack": [
+        "required transfer coursework and credit expectations",
+        "essay and context opportunities",
+        "waitlist movement and update rules for the current cycle",
+        "programs or pathways that improve eventual transfer odds"
+      ]
+    }
+  ],
+  "roadmap": [
+    {
+      "phase": "Right now",
+      "title": "Protect every viable option",
+      "items": [
+        "keep live applications and waitlists current",
+        "gather all transcript, score, and grade data into one place",
+        "start source-backed research instead of relying on memory"
+      ]
+    },
+    {
+      "phase": "Next 30 days",
+      "title": "Translate uncertainty into a concrete plan",
+      "items": [
+        "identify the most likely majors or academic lanes",
+        "map those lanes against Wake Tech coursework and university requirements",
+        "build a primary plan plus at least one backup"
+      ]
+    },
+    {
+      "phase": "After that",
+      "title": "Turn planning into execution",
+      "items": [
+        "register for the right courses early",
+        "maintain a high college GPA from day one",
+        "update the dashboard as official information is verified"
+      ]
+    }
+  ],
+  "checklists": [
+    {
+      "title": "Academic Evidence",
+      "items": [
+        "official transcript copies",
+        "test scores and AP inventory",
+        "course history with final grades",
+        "intended major shortlist"
+      ]
+    },
+    {
+      "title": "Transfer Research",
+      "items": [
+        "school transfer pages",
+        "major prerequisites",
+        "credit transfer tools",
+        "application deadlines"
+      ]
+    },
+    {
+      "title": "Decision Quality",
+      "items": [
+        "cost comparison",
+        "housing and commute assumptions",
+        "backup options that are actually acceptable",
+        "timeline for next checkpoints"
+      ]
+    }
+  ],
+  "questions": [
+    "Which Wake Tech classes create the cleanest path into the most likely target major?",
+    "What rules apply differently to first-year applicants, waitlisted students, and transfer applicants?",
+    "Which deadlines create true points of no return this year?",
+    "What additional schools should stay in the mix if NCSU or UNC do not open up?"
+  ],
+  "glossary": [
+    {
+      "term": "Articulation",
+      "definition": "The way a class at one school is recognized for credit at another school."
+    },
+    {
+      "term": "Major Readiness",
+      "definition": "How prepared a student is for a specific program based on required courses already completed."
+    },
+    {
+      "term": "Transfer Credit",
+      "definition": "College credit earned before enrolling at the destination university."
+    },
+    {
+      "term": "Waitlist Strategy",
+      "definition": "The set of actions used to stay viable with a school while building other plans at the same time."
+    }
+  ]
+}
