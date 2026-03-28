@@ -1,109 +1,119 @@
 {
   "meta": {
     "title": "Map the path before the deadline maps you.",
-    "subtitle": "Use this board to compare routes, protect backup plans, and keep Wake Tech in play as a launch point toward larger goals in North Carolina.",
-    "notice": "All admissions and transfer rules should be verified against current official sources before making a decision."
+    "subtitle": "This board turns the Wake Tech, UNC, and NC State research into a student view: what each path is, what the dates are, and what still needs to be answered.",
+    "notice": "Dates and rules below were checked against official pages on March 28, 2026. Re-verify before acting."
   },
   "stats": [
     {
+      "value": "14",
+      "label": "official sources captured in the first research pass"
+    },
+    {
       "value": "2",
-      "label": "primary destination schools in focus"
+      "label": "structured Wake Tech pathway programs confirmed"
     },
     {
       "value": "3",
-      "label": "parallel routes worth keeping alive"
+      "label": "active route types to keep alive at once"
     },
     {
-      "value": "4",
-      "label": "workstreams to manage at once"
-    },
-    {
-      "value": "Now",
-      "label": "best time to start organizing source-backed facts"
+      "value": "May 1",
+      "label": "first major 2026 waitlist checkpoint in the current cycle"
     }
   ],
   "paths": [
     {
-      "tag": "Current Cycle",
-      "title": "Stay active on waitlists",
-      "description": "If a student is still alive at a target school, keep the file moving while backup paths are built in parallel.",
+      "tag": "UNC",
+      "title": "Use the waitlist the right way",
+      "description": "UNC’s published guidance says waitlisted students should stay in the portal, keep grades current, and lock in a backup college instead of waiting empty-handed.",
       "actions": [
-        "Track deadlines for updates, final grades, and interest signals.",
-        "Collect any new academic evidence that strengthens the file.",
-        "Treat the waitlist as real, but never as the only plan."
+        "Expect first-year waitlist movement only after the May 1 enrollment deadline.",
+        "Plan around a final UNC waitlist answer no later than July 31.",
+        "Do not assume extra interviews or extra recommendation letters will help."
       ]
     },
     {
-      "tag": "Transfer Route",
-      "title": "Use Wake Tech as a proving ground",
-      "description": "A focused first year or first two years at Wake Tech can build a stronger transfer case and create leverage through completed college work.",
+      "tag": "UNC",
+      "title": "C-STEP is a real Wake Tech route",
+      "description": "UNC’s C-STEP pathway is built for students at partner community colleges, including Wake Tech, who plan an AA or AS path and keep a strong GPA.",
       "actions": [
-        "Choose classes that transfer cleanly and support the intended major.",
-        "Protect GPA and course rigor from the first term forward.",
-        "Track school-specific transfer requirements instead of assuming a generic path."
+        "Key floor: 3.2 cumulative GPA.",
+        "Target degree: Associate in Arts or Associate in Science.",
+        "Published application windows: April 1 and October 1."
       ]
     },
     {
-      "tag": "Risk Control",
-      "title": "Build options wider than two schools",
-      "description": "A plan is stronger when it includes target schools, strong backups, and a route that still works if one decision goes sideways.",
+      "tag": "NC State",
+      "title": "Wolfpack Connect creates a structured fallback",
+      "description": "NC State’s Wolfpack Connect is a guaranteed transfer pathway tied to all 58 North Carolina community colleges and is designed for students early in their community-college path.",
       "actions": [
-        "Keep a short list of additional North Carolina universities that fit the student's goals.",
-        "Separate emotional favorites from practical fallback choices.",
-        "Use deadlines, cost, fit, and transfer friendliness as filters."
+        "The current fall 2026 eligibility deadline is July 1.",
+        "Students must start with 30 transferable credits or less.",
+        "Students finish the pathway by earning an AA or AS degree aligned to an eligible major."
+      ]
+    },
+    {
+      "tag": "NC State",
+      "title": "Traditional transfer is still open",
+      "description": "Students do not need an associate degree to transfer to NC State, but they do need a clean academic plan and enough real college coursework to be competitive.",
+      "actions": [
+        "NC State wants at least 24 college credits completed or in progress.",
+        "AP, IB, and CLEP do not count toward the 24-credit threshold.",
+        "Major-specific coursework matters early, especially in engineering."
       ]
     }
   ],
   "destinations": [
     {
       "name": "NC State",
-      "focus": "Strong for majors where sequencing and major readiness matter early.",
-      "summary": "The planning lens here is not just admission, but whether the intended major has special prerequisites, GPA pressure, or limited room for mistakes.",
+      "focus": "Best fit when the student is ready to plan by major, not just by school.",
+      "summary": "NC State’s transfer system is practical and structured. The biggest win is that it shows students what counts by major, but the tradeoff is that major choice matters early.",
       "whatToTrack": [
-        "transfer application windows and required materials",
-        "major-specific prerequisite courses",
-        "minimum and competitive GPA signals",
-        "credit articulation for Wake Tech classes"
+        "24-credit transfer threshold excluding AP, IB, and CLEP",
+        "major-specific prerequisite courses and GPA notes",
+        "Wolfpack Connect fit versus traditional transfer fit",
+        "May 1 and June 15 waitlist checkpoints for the current cycle"
       ]
     },
     {
       "name": "UNC-Chapel Hill",
-      "focus": "Holistic review still matters, but transfer planning must stay evidence-driven.",
-      "summary": "For UNC, the strongest route is usually the one that combines clean academics, deliberate course choices, and a clear personal narrative backed by performance.",
+      "focus": "Strong academics still matter, but the route needs clean timing and backup discipline.",
+      "summary": "UNC offers both a traditional transfer route and the C-STEP partnership path. The waitlist path is still alive in the current cycle, but it should be managed as one track among several.",
       "whatToTrack": [
-        "required transfer coursework and credit expectations",
-        "essay and context opportunities",
-        "waitlist movement and update rules for the current cycle",
-        "programs or pathways that improve eventual transfer odds"
+        "February 15, March 15, April 30, and May 15 transfer milestones",
+        "C-STEP eligibility rules and application windows",
+        "July 31 as the outside date for a final waitlist answer",
+        "updated grades and official transcript timing"
       ]
     }
   ],
   "roadmap": [
     {
-      "phase": "Right now",
-      "title": "Protect every viable option",
+      "phase": "By May 1, 2026",
+      "title": "Protect current-cycle options",
       "items": [
-        "keep live applications and waitlists current",
-        "gather all transcript, score, and grade data into one place",
-        "start source-backed research instead of relying on memory"
+        "confirm every live waitlist response in the correct portal",
+        "reserve a real backup enrollment if a deposit is due",
+        "collect updated grades and final spring evidence"
       ]
     },
     {
-      "phase": "Next 30 days",
-      "title": "Translate uncertainty into a concrete plan",
+      "phase": "By June 15, 2026",
+      "title": "Know where NC State stands",
       "items": [
-        "identify the most likely majors or academic lanes",
-        "map those lanes against Wake Tech coursework and university requirements",
-        "build a primary plan plus at least one backup"
+        "expect NC State's current waitlist answer window to close",
+        "decide whether Wake Tech fallback planning becomes primary",
+        "check Wolfpack Connect eligibility while credit counts are still low enough"
       ]
     },
     {
-      "phase": "After that",
-      "title": "Turn planning into execution",
+      "phase": "By July 31, 2026",
+      "title": "Close the UNC branch and commit",
       "items": [
-        "register for the right courses early",
-        "maintain a high college GPA from day one",
-        "update the dashboard as official information is verified"
+        "expect UNC's final waitlist answer by the end of July",
+        "lock in the academic lane for the fall",
+        "treat Wake Tech course selection as strategy, not just registration"
       ]
     }
   ],
@@ -118,12 +128,21 @@
       ]
     },
     {
-      "title": "Transfer Research",
+      "title": "UNC Path",
       "items": [
-        "school transfer pages",
-        "major prerequisites",
-        "credit transfer tools",
-        "application deadlines"
+        "waitlist portal actions",
+        "C-STEP eligibility check",
+        "transfer deadline calendar",
+        "updated grades ready to send"
+      ]
+    },
+    {
+      "title": "NC State Path",
+      "items": [
+        "24-credit threshold planning",
+        "Wolfpack Connect fit",
+        "major-specific course map",
+        "backup deposit strategy"
       ]
     },
     {
@@ -131,33 +150,33 @@
       "items": [
         "cost comparison",
         "housing and commute assumptions",
-        "backup options that are actually acceptable",
-        "timeline for next checkpoints"
+        "acceptable backups, not fake backups",
+        "timeline for every next checkpoint"
       ]
     }
   ],
   "questions": [
-    "Which Wake Tech classes create the cleanest path into the most likely target major?",
-    "What rules apply differently to first-year applicants, waitlisted students, and transfer applicants?",
-    "Which deadlines create true points of no return this year?",
-    "What additional schools should stay in the mix if NCSU or UNC do not open up?"
+    "What intended major should drive the course plan from Wake Tech?",
+    "How many real college credits does the student already have, not just AP scores?",
+    "Which portal deadline matters next: May 1, June 15, or July 31?",
+    "If the favorite school does not open, which fallback is still exciting enough to pursue hard?"
   ],
   "glossary": [
     {
-      "term": "Articulation",
-      "definition": "The way a class at one school is recognized for credit at another school."
+      "term": "CAA",
+      "definition": "North Carolina's Comprehensive Articulation Agreement for transfer from community colleges to UNC System schools."
     },
     {
-      "term": "Major Readiness",
-      "definition": "How prepared a student is for a specific program based on required courses already completed."
+      "term": "C-STEP",
+      "definition": "UNC-Chapel Hill's Carolina Student Transfer Excellence Program for students at partner community colleges."
     },
     {
-      "term": "Transfer Credit",
-      "definition": "College credit earned before enrolling at the destination university."
+      "term": "Wolfpack Connect",
+      "definition": "NC State's guaranteed transfer pathway for eligible students who begin at North Carolina community colleges."
     },
     {
-      "term": "Waitlist Strategy",
-      "definition": "The set of actions used to stay viable with a school while building other plans at the same time."
+      "term": "Transfer Planner",
+      "definition": "NC State's planning tool for seeing how completed and planned coursework lines up with specific majors."
     }
   ]
 }
